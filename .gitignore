@@ -1,24 +1,15 @@
-# Ignorer le répertoire node_modules
+# Ignore node_modules directory
 node_modules/
 
-# Ignorer le fichier d'environnement
-.env
+# Ignore log files
+*.log
 
-# Ignorer les répertoires spécifiques à l'IDE
-.idea/
-.vscode/
-
-# Ignorer les fichiers spécifiques au système d'exploitation
+# Ignore OS-specific files
 .DS_Store
 Thumbs.db
 
-# Ignorer les fichiers journaux
-*.log
-
-# Ignorer la sortie compilée
+# Ignore compiled output
 /dist
 /build
 /public
-
-# Ignorer un fichier spécifique dans le répertoire src/components
 /src/components/ContactForm.js
