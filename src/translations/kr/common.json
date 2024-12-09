@@ -1,0 +1,135 @@
+{
+  "nav": {
+    "name": "니콜라 노랑",
+    "past_work": "과거 직장",
+    "skills": "기술",
+    "testimonials": "사용후기",
+    "contact_me": "저에게 연락주세요",
+    "language": "한국인"
+  },
+  "about": {
+    "name": "안녕하세요, 저는 니콜라 입니다",
+    "introduction": "나는 새로운 기술을 배우는 것을 좋아합니다",
+    "descriptions": "\uD83C\uDF93 최근 3w Academy 학교에서 부트캠프 교육을 마친 후 \"개발자 웹 풀 스택\" 졸업장을 취득했습니다! 웹 개발에 열정을 갖고 La Manu와 함께 일-학습 기반으로 웹 및 모바일 애플리케이션 디자이너 타이틀 과정을 추구하고 있습니다.",
+    "work_with_me": "나와 함께 일하세요",
+    "see_my_past_work": "내 과거 작업 보기"
+  },
+  "project": {
+    "title": "내가 만든 앱",
+    "description": "다음은 제가 React, API, Three.js, WebGL 및 MySQL을 사용하여 구축한 프로젝트 중 일부입니다. 각 프로젝트는 이러한 기술에 대한 나의 기술을 보여줍니다.",
+    "FreshlyRestaurant": {
+      "title": "Freshly Restaurant",
+      "subtitle": "뉴욕 레스토랑 website",
+      "description": "Freshly Restaurant은 전형적인 뉴욕 레스토랑의 쇼케이스 장소로, 독특한 분위기와 상징적인 요리를 선보입니다. 이 프로젝트는 3W 아카데미에서 훈련의 일환으로 수행되었습니다."
+    },
+    "Carnet_de_voyage": {
+      "title": "Hello World",
+      "subtitle": "여행사 홈페이지",
+      "description": "Hello World는 제가 3W Academy에서 훈련을 하면서 진행했던 프로젝트입니다. 이 사이트는 현대적인 디자인과 매력적인 인터페이스를 갖춘 가상의 여행사를 특징으로 하며 몰입감 있고 직관적인 사용자 경험을 제공합니다."
+    },
+    "cabinet_medical": {
+      "title": "Doctor Berthe medical center",
+      "subtitle": "사무실 상담 및 원격 상담",
+      "description": "Berthe 박사의 의료 캐비닛은 대화형 형식을 통한 원격 상담에 중점을 두고 마르세유에서 의료 서비스를 제공하는 데 전념하는 현대적인 사이트입니다. React 및 Tailwind CSS로 설계되어 모든 장치에 적용되는 원활한 탐색을 보장합니다."
+    },
+    "haunted_house": {
+      "title": "Haunted House",
+      "subtitle": "Three.js 와 WebGL",
+      "description": "3D Haunted house는 역동적인 조명 및 그림자 효과와 WebGL, Three.js 및 Blender로 생성된 으스스한 애니메이션을 사용하여 대화형 유령의 집을 탐험할 수 있는 몰입형 경험입니다."
+    },
+    "coffee_smoke_shader": {
+      "title": "Coffee Smoke Shader",
+      "subtitle": "Three.js & WebGL 와 Blender",
+      "description": "Coffee Smoke Shader는 3D 애니메이션과 고급 셰이더 기술을 결합하여 대화형의 사실적인 장면을 만들어 매혹적인 시각적 경험을 제공합니다."
+    },
+    "fish-ocean": {
+      "title": "Fish Ocean",
+      "subtitle": "몰입형 바다 3D",
+      "description": "Fish Ocean Project는 React Fiber 및 Three.js를 사용하여 물고기가 있는 바다를 시뮬레이션하는 대화형 3D 경험입니다. 이 프로젝트는 고급 시각 효과를 사용하여 해양 환경에 현실적이고 역동적인 몰입감을 제공합니다. 모험에 빠져보세요!"
+    },
+    "earth": {
+      "title": "Earth",
+      "subtitle": "Three.js 와 WebGL",
+      "description": "Earth Project 는 사실적인 시각 효과를 갖춘 지구의 3D 시뮬레이션입니다. 이 대화형 경험은 낮과 밤 사이의 역동적인 전환, 움직이는 구름, 별이 빛나는 하늘, 달의 궤도에 따른 지구의 지속적인 회전을 보여줍니다. 이 프로젝트는 Three.js와 WebGL을 사용하여 동적 조명 효과와 그림자가 포함된 지구-달 시스템의 몰입형 시각화를 만듭니다."
+    },
+    "terrain": {
+      "title": "3D Terrain Shader",
+      "subtitle": "Three.js 와 WebGL",
+      "description": "3D Terrain Shader는 최신 기술을 활용하여 역동적인 자연 경관을 생성하는 대화형 프로젝트입니다. 이 몰입형 지형에서는 사용자 정의 가능한 제어판을 사용하여 산, 물 및 전체 치수와 같은 요소를 조작할 수 있습니다. GLSL 셰이더와 절차적 알고리즘을 사용하여 이 프로젝트는 놀랍고 완전한 대화형 시각적 렌더링을 제공합니다."
+    },
+    "raging-sea": {
+      "title": "Raging-sea",
+      "subtitle": "GLSL 와 Javascript",
+      "description": "Raging Sea는 Three.js, WebGL 및 Perlin Noise를 사용하여 제작된 사실적인 파도로 역동적인 바다를 시뮬레이션하는 3D 애니메이션입니다. 이를 통해 대화식으로 물의 모양을 조정할 수 있습니다."
+    },
+    "helmet": {
+      "title": "Helmet",
+      "subtitle": "WebGL 와 Html",
+      "description": "Helmet은 3D 헬멧 모델을 보고 조작할 수 있는 대화형 웹 애플리케이션입니다. 온라인 제품 프레젠테이션에 이상적이며 Three.js, WebGL 및 Blender를 사용하여 사실적인 세부 정보와 동적 HTML 설명으로 유동적인 경험을 제공합니다."
+    }
+  },
+  "skills": {
+    "title": "기술 & 기술적 역량",
+    "description": "아래에서는 이전 작업과 연구 전반에 걸쳐 활용된 기술, 경험 및 도구에 대한 포괄적인 개요를 확인할 수 있습니다.."
+  },
+  "skillsInProgress": {
+    "title": "기술 & 기술적 역량개발 중",
+    "description": "아래에서 학습 중에 사용된 기술, 경험 및 도구에 대한 전체 개요를 확인할 수 있습니다."
+  },
+  "testimonials": {
+    "testimonial_one": {
+      "quote": "Nicolas is a Junior Developer, who managed to get up to speed very quickly on a Symfony 4 / PHP 7.4 project. She started with simple / repetitive tasks, and ended with the implementation of a new time and activity entry module. Nicolas understands and adapts very quickly to the context of the project, which allows us to move forward very quickly and to rely on her skills to bring projects to a successful conclusion",
+      "name": "Emmanuel BOCQUET",
+      "company": "QuickMS"
+    },
+    "testimonial_two": {
+      "quote": "It's a pleasure to work with Nicolas! he has been a valuable addition to our team with his technical skills, critical thinking, and constant positive attitude. he is a person with whom it is pleasant to exchange ideas, but who is also productive and efficient. Although our professional paths have diverged, she will remain a true asset for our team and a real gain for her next opportunity.",
+      "name": "Anthony PERRIER",
+      "company": ""
+    },
+    "testimonial_three": {
+      "quote": "Nicolas is an extremely talented apprentice developer! Throughout his time with us, he has demonstrated a remarkable ability to quickly assimilate new skills. His natural curiosity and commitment to learning make his a dynamic force within our team. Nicolas brings a fresh and creative perspective to our projects, and his passion for development shines through in the quality of his work. We are lucky to have him with us and look forward to seeing his bright future in the field of development.",
+      "name": "Aziza MOUHOUB"
+    },
+    "testimonial_four": {
+      "quote": "Nicolas is a friendly colleague. The projects led by Nicolas are always carried out with seriousness and professionalism. His passion for web development is a real asset! I am convinced that he will carry out his future projects with the same rigor and seriousness. Bravo Nicolas!",
+      "name": "Sofia Rifiki",
+      "company": "QuickMS"
+    },
+    "testimonial_five": {
+      "quote": "Nicolas is someone who truly engages in his work. During this year, I worked in the same development team. His attention to detail and exceptional listening skills make him a remarkable professional. His level of skill, particularly high for a junior profil, demonstrates his commitment to excellence in development. Nicolas is a real asset to a team and will fit perfectly into different projects.",
+      "name": "Jennifer Boî",
+      "company": ""
+    },
+    "testimonial_six": {
+      "quote": "Nicolas is a pleasure to work with! he has been an asset to our team through his technical skills, critical thinking, and constant good spirits. he is someone who is pleasant to interact with, but also productive and efficient. Though our professional paths have separated, he will remain a real loss for our team and a real gain for his next endeavor.",
+      "name": "Laure CHAPERT",
+      "company": ""
+    },
+    "testimonial_seven": {
+      "quote": "Nicolas is a web developer whose hands-on approach and technical understanding clearly stand out. Throughout his apprenticeship at QuickMS and his training at the 3W Academy, Nicolas has demonstrated his competence in web development, particularly in HTML, CSS, JavaScript, PHP, and Symfony 4.4. What is impressive about Nicolas is his ability to embrace challenges and continually improve himself. With a professional background including English-Japanese and chinese translation and teaching, he brings an enriching perspective to his web development work. His personal project (visible at https://portfolio-huang-nicolas.vercel.app/) and her final project at AFPA demonstrate his commitment and creativity. As an apprentice application developer at QuickMS, Nicolas has demonstrated excellent collaboration and project management skills, using tools like JIRA, Bitbucket, and Git. His proficiency in MySQL databases and experience with remote work complement his versatile profile. Nicolas  is therefore a committed and adaptable professional, ready to make a significant contribution in the field of web development. His potential to enrich a team and successfully lead innovative projects is undeniable.",
+      "name": "Christine Vincent-Giuliano",
+      "company": "QuickMS"
+    },
+    "title": "Recommendation Testimonials",
+    "link": "See more Testimonials details on my Linkedin"
+  },
+  "contact": {
+    "title": "저에게 연락하세요",
+    "subtitle": "\uD83D\uDDA5\uFE0F 개발자로서 견습 계약이나 풀타임 원격 프리랜서 일자리를 적극적으로 찾고 있습니다!",
+    "popup_message": "나 여기 있어",
+    "form": {
+      "name_label": "이름",
+      "email_label": "이메일",
+      "message_label": "메시지",
+      "submit_button": "제출하다"
+    },
+    "success_message": "메시지를 보내주셔서 감사합니다! 곧 답변해 드리겠습니다.",
+    "error_message": "오류가 발생했습니다. 나중에 다시 시도해 주세요."
+  },
+  "footer": {
+    "code_source": "Code Source",
+    "connect_with_me": "나와 연결",
+    "copyright": "© all rights reserved"
+  }
+}

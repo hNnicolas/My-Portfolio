@@ -1,0 +1,135 @@
+{
+  "nav": {
+    "name": "Nicolas黄",
+    "past_work": "過去的工作",
+    "skills": "技能",
+    "testimonials": "感言",
+    "contact_me": "我聯絡",
+    "language": "中文"
+  },
+  "about": {
+    "name": "你好，我是 Nicolas. 我是在法國出生長大的中國人",
+    "introduction": "我喜歡學習新技術。",
+    "descriptions": "\uD83C\uDF93 最近在 3w Academy 完成了我的訓練營培訓，並獲得了“Developer web full stack”文憑！我對 Web 開發充滿熱情，目前正在 La Manu 參加勤工儉學項目，以成為 Web 和行動應用程式設計師。",
+    "work_with_me": "和我一起工作",
+    "see_my_past_work": "查看我過去的工作"
+  },
+  "project": {
+    "title": "我建立的應用程式",
+    "description": "以下是我使用 React、API、Three.js、WebGL 和 MySQL 建立的一些專案。每個項目都展示了我在這些技術方面的技能。",
+    "FreshlyRestaurant": {
+      "title": "Freshly Restaurant",
+      "subtitle": "紐約餐廳網站",
+      "description": "Freshly Restaurant 展示了典型的紐約餐廳，展示了他們獨特的氛圍和標誌性菜餚。該計劃是我在 3W Academy 培訓的一部分。"
+    },
+    "Carnet_de_voyage": {
+      "title": "Hello World",
+      "subtitle": "旅行社網站",
+      "description": "Hello world 是我在3W Academy 訓練期間進行的一個計畫。該網站以虛構的旅行社為特色，具有現代設計和有吸引力的介面，提供身臨其境且直觀的用戶體驗."
+    },
+    "cabinet_medical": {
+      "title": "Doctor Berthe 醫療中心",
+      "subtitle": "辦公室諮詢和遠距諮詢",
+      "description": "Berthe 醫生的醫療櫃是一個致力於在馬賽展示醫療服務的現代化網站，重點是透過互動形式進行遠距諮詢。它採用 React 和 Tailwind CSS 設計，確保適應所有裝置的流暢導航。"
+    },
+    "haunted_house": {
+      "title": "Haunted House",
+      "subtitle": "Three.js 和 WebGL",
+      "description": "3D Haunted House 種身臨其境的體驗，您可以探索具有動態光影效果以及使用 WebGL、Three.js 和 Blender 創建的怪異動畫的互動式鬼屋。"
+    },
+    "coffee_smoke_shader": {
+      "title": "Coffee Smoke Shader",
+      "subtitle": "Three.js & WebGL 和 Blender",
+      "description": "Coffee Smoke Shader 透過結合 3D 動畫和先進的著色器技術來創造互動式逼真的場景，提供迷人的視覺體驗"
+    },
+    "fish-ocean": {
+      "title": "Fish Ocean",
+      "subtitle": "沉浸式海洋 3D",
+      "description": "Fish Ocean Project 是一種互動式 3D 體驗，使用 React Fiber 和 Three.js 創建，模擬有魚的海洋。該項目使用先進的視覺效果來提供逼真和動態的海洋環境沉浸感。投入冒險吧！"
+    },
+    "earth": {
+      "title": "Earth",
+      "subtitle": "Three.js 和 WebGL",
+      "description": "Earth Project 個具有逼真視覺效果的 3D 模擬。這種互動體驗展示了白天和黑夜之間的動態過渡、移動的雲彩、星空以及地球隨月球軌道的連續旋轉。該專案使用 Three.js 和 WebGL 創建具有動態光照效果和陰影的地月系統的沉浸式視覺化"
+    },
+    "terrain": {
+      "title": "3D Terrain Shader",
+      "subtitle": "Three.js 和 WebGL",
+      "description": "3D Terrain Shader，一個互動式項目，利用最新技術產生動態自然景觀。這種身臨其境的地形可讓您使用可自訂的控制面板來操縱山脈、水和整體尺寸等元素。該專案使用 GLSL 著色器和程式演算法，提供令人驚嘆的完全互動視覺渲染"
+    },
+    "raging-sea": {
+      "title": "raging-sea",
+      "subtitle": "GLSL 和 Javascript",
+      "description": "Raging Sea 是一款使用 Three.js、WebGL 和 Perlin Noise 創建的 3D 動畫，模擬具有真實波浪的動態海洋。它允許您互動式地調整水的外觀。"
+    },
+    "helmet": {
+      "title": "Helmet",
+      "subtitle": "WebGL 和 Html",
+      "description": "Helmet 是一個互動式 Web 應用程序，可讓您查看和操作 3D 頭盔模型。它非常適合線上產品演示，它使用 Three.js、WebGL 和 Blender 提供具有真實細節和動態 HTML 描述的流暢體驗."
+    }
+  },
+  "skills": {
+    "title": "技能 和 技術",
+    "description": "下面，您將全面概述我在先前的工作和學習中使用的技能、經驗和工具."
+  },
+  "skillsInProgress": {
+    "title": "正在開發的技能和技術",
+    "description": "您可以在下面找到我在學習過程中使用的技能、經驗和工具的完整概述"
+  },
+  "testimonials": {
+    "testimonial_one": {
+      "quote": "Nicolas 是一位初級開發人員，他能夠快速熟悉 Symfony 4 / PHP 7.4 專案。她從簡單/重複性任務開始，以實施新的時間和活動輸入模組結束。 Nicolas 非常快速地理解並適應了專案的背景，這使我們能夠快速前進並依靠她的技能使專案圓滿成功",
+      "name": "Emmanuel BOCQUET",
+      "company": "QuickMS"
+    },
+    "testimonial_two": {
+      "quote": "很高興與Nicolas合作！他憑藉著自己的技術技能、批判性思維和持續的積極態度，成為我們團隊的寶貴補充。他是一個很樂意與他交流想法的人，但他也富有成效和有效率。儘管我們的職業道路出現了分歧，但她仍將是我們團隊的真正資產，並為她的下一次機會帶來真正的收穫。",
+      "name": "Anthony PERRIER",
+      "company": ""
+    },
+    "testimonial_three": {
+      "quote": "Nicolas 是一位非常有才華的學徒開發人員！在與我們一起工作的整個過程中，他展現了快速吸收新技能的非凡能力。他天生的好奇心和對學習的承諾使他成為我們團隊中的一股充滿活力的力量。尼古拉斯為我們的項目帶來了新鮮而富有創意的視角，他對開發的熱情在他的工作品質中得到了體現。我們很幸運有他在身邊，並期待看到他在發展領域的美好未來。",
+      "name": "Aziza MOUHOUB"
+    },
+    "testimonial_four": {
+      "quote": "Nicolas 是一位友善的同事。Nicolas 領導的計畫總是以認真和專業的態度進行。他對網頁開發的熱情是一筆真正的財富！我相信他會以同樣的嚴謹和認真的態度來開展他未來的計畫。Nicolas 極了！",
+      "name": "Sofia Rifiki",
+      "company": "QuickMS"
+    },
+    "testimonial_five": {
+      "quote": "Nicolas 是一個真正投入工作的人。這一年裡，我在同一個開發團隊工作。他對細節的關注和卓越的傾聽技巧使他成為一位出色的專業人士。他的技能水平（對於初級人才來說尤其高）表明了他對卓越發展的承諾。 Nicolas 是團隊的真正資產，可以完美地適應不同的專案。",
+      "name": "Jennifer Boî",
+      "company": ""
+    },
+    "testimonial_six": {
+      "quote": "與Nicolas合作很愉快！他憑藉自己的技術技能、批判性思維和持續的良好精神狀態成為我們團隊的寶貴財富。他是一個令人愉快互動的人，而且富有成效且高效。儘管我們的職業道路已經分開，但他仍然是我們團隊的真正損失，也是他下一步努力的真正收穫。",
+      "name": "Laure CHAPERT",
+      "company": ""
+    },
+    "testimonial_seven": {
+      "quote": "Nicolas 是一位 Web 開發人員，他的實務方法和技術理解能力非常突出。在 QuickMS 的學徒期和 3W 學院的培訓過程中，Nicolas 展現了他在 Web 開發方面的能力，特別是在 HTML、CSS、JavaScript、PHP 和 Symfony 4.4 方面。尼古拉斯令人印象深刻的是他勇於接受挑戰並不斷提升自己的能力。他擁有英日和中文翻譯和教學等專業背景，為他的網頁開發工作帶來了豐富的視角。他的個人專案（請參閱 https://portfolio-huang-nicolas.vercel.app/）和她在 AFPA 的最終專案展示了他的承諾和創造力。作為 QuickMS 的學徒應用程式開發人員，Nicolas 使用 JIRA、Bitbucket 和 Git 等工具展示了出色的協作和專案管理技能。他對 MySQL 資料庫的熟練程度和遠距工作經驗與他多才多藝的個性相得益彰。因此，尼古拉斯是一位忠誠且適應性強的專業人士，準備在網路開發領域做出重大貢獻。他豐富團隊和成功領導創新專案的潛力是不可否認的。",
+      "name": "Christine Vincent-Giuliano",
+      "company": "QuickMS"
+    },
+    "title": "推薦感言",
+    "link": "在我的 Linkedin 上查看更多推薦詳情"
+  },
+  "contact": {
+    "title": "我聯絡",
+    "subtitle": "\uD83D\uDDA5\uFE0F 積極尋求學徒合約或作為開發人員的全職遠距自由職業！",
+    "popup_message": "我在這裡",
+    "form": {
+      "name_label": "姓名",
+      "email_label": "電子郵件",
+      "message_label": "訊息",
+      "submit_button": "提交"
+    },
+    "success_message": "謝謝您的留言！我會盡快回覆您",
+    "error_message": "發生錯誤。請稍後重試。"
+  },
+  "footer": {
+    "code_source": "程式碼來源",
+    "connect_with_me": "與我聯繫",
+    "copyright": "© 版權所有"
+  }
+}

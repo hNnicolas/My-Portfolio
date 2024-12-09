@@ -1,0 +1,135 @@
+{
+  "nav": {
+    "name": "Nicolas Huang",
+    "past_work": "Past Work",
+    "skills": "Skills",
+    "testimonials": "Testimonials",
+    "contact_me": "Contact Me",
+    "language": "Language"
+  },
+  "about": {
+    "name": "Hi, I'm Nicolas.",
+    "introduction": "I love learning new technologies.",
+    "descriptions": "\uD83C\uDF93 Recently graduated with a \"Developer web full stack\" diploma after completing a bootcamp training with the 3w Academy school! Passionate about web development, I am pursuing a course for a web and mobile application designer title with La Manu on a work-study basis.",
+    "work_with_me": "Work With Me",
+    "see_my_past_work": "See My Past Work"
+  },
+  "project": {
+    "title": "Apps I've Built",
+    "description": "Below are some of the projects I've built using React, API, Three.js & WebGL and MySQL. Each project showcases my skills in these technologies.",
+    "FreshlyRestaurant": {
+      "title": "Freshly Restaurant",
+      "subtitle": "New York restaurant website",
+      "description": "Freshly Restaurant is a showcase site for a quintessential New York restaurant, showcasing its unique ambiance and iconic dishes. This project was carried out as part of my training at 3W Academy."
+    },
+    "Carnet_de_voyage": {
+      "title": "Hello World",
+      "subtitle": "Travel agency website",
+      "description": "Hello world is a project carried out during my training at 3W Academy. This site features a fictional travel agency with a modern design and attractive interface, providing an immersive and intuitive user experience."
+    },
+    "cabinet_medical": {
+      "title": "Doctor Berthe medical center",
+      "subtitle": "Consultation in the office and Teleconsultation",
+      "description": "The Medical Cabinet of Dr. Berthe is a modern site dedicated to presenting medical services in Marseille, with a focus on teleconsultation via an interactive form. Designed with React and Tailwind CSS, it guarantees smooth navigation adapted to all devices."
+    },
+    "haunted_house": {
+      "title": "Haunted House",
+      "subtitle": "Three.js & WebGL",
+      "description": "3D Haunted house is an immersive experience where you explore an interactive haunted house with dynamic light and shadow effects, and spooky animations created with WebGL, Three.js, and Blender."
+    },
+    "coffee_smoke_shader": {
+      "title": "Coffee Smoke Shader",
+      "subtitle": "Three.js & WebGL and Blender",
+      "description": "Coffee Smoke Shader offers a fascinating visual experience by combining 3D animation and advanced shader techniques to create an interactive and realistic scene"
+    },
+    "fish-ocean": {
+      "title": "Fish Ocean",
+      "subtitle": "Immersive Ocean 3D",
+      "description": "The Fish Ocean Project is an interactive 3D experience that simulates an ocean with fish, created with React Fiber and Three.js. The project uses advanced visual effects to provide a realistic and dynamic immersion in a marine environment. Dive into the adventure!"
+    },
+    "earth": {
+      "title": "Earth",
+      "subtitle": "Three.js & WebGL",
+      "description": "The Earth Project is a 3D simulation of the Earth with realistic visual effects. This interactive experience displays dynamic transitions between day and night, moving clouds, a starry sky, and a continuous rotation of the Earth with the orbit of the Moon. The project uses Three.js and WebGL to create an immersive visualization of the Earth-Moon system with dynamic lighting effects and shadows"
+    },
+    "terrain": {
+      "title": "3D Terrain Shader",
+      "subtitle": "Three.js & WebGL",
+      "description": "3D Terrain Shader, an interactive project that leverages the latest technologies to generate a dynamic natural landscape. This immersive terrain allows you to manipulate elements like mountains, water, and overall dimensions using a customizable control panel. Using GLSL shaders and procedural algorithms, this project offers stunning and fully interactive visual rendering"
+    },
+    "raging-sea": {
+      "title": "raging-sea",
+      "subtitle": "GLSL & Javascript",
+      "description": "Raging Sea is a 3D animation simulating a dynamic ocean with realistic waves, created using Three.js, WebGL and Perlin Noise. It allows you to adjust the appearance of the water interactively."
+    },
+    "helmet": {
+      "title": "Helmet",
+      "subtitle": "WebGL & Html",
+      "description": "Helmet is an interactive web application that allows you to view and manipulate a 3D helmet model. Ideal for online product presentation, it uses Three.js, WebGL, and Blender to deliver a fluid experience with realistic details and dynamic HTML descriptions."
+    }
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "description": "Below, you'll find a comprehensive overview of my skills, experiences, and tools utilized throughout my previous work and studies."
+  },
+  "skillsInProgress": {
+    "title": "Skills & Technologies under development",
+    "description": "Below you will find a complete overview of my skills, experiences and tools used during learning"
+  },
+  "testimonials": {
+    "testimonial_one": {
+      "quote": "Nicolas is a Junior Developer, who managed to get up to speed very quickly on a Symfony 4 / PHP 7.4 project. She started with simple / repetitive tasks, and ended with the implementation of a new time and activity entry module. Nicolas understands and adapts very quickly to the context of the project, which allows us to move forward very quickly and to rely on her skills to bring projects to a successful conclusion",
+      "name": "Emmanuel BOCQUET",
+      "company": "QuickMS"
+    },
+    "testimonial_two": {
+      "quote": "It's a pleasure to work with Nicolas! he has been a valuable addition to our team with his technical skills, critical thinking, and constant positive attitude. he is a person with whom it is pleasant to exchange ideas, but who is also productive and efficient. Although our professional paths have diverged, she will remain a true asset for our team and a real gain for her next opportunity.",
+      "name": "Anthony PERRIER",
+      "company": ""
+    },
+    "testimonial_three": {
+      "quote": "Nicolas is an extremely talented apprentice developer! Throughout his time with us, he has demonstrated a remarkable ability to quickly assimilate new skills. His natural curiosity and commitment to learning make his a dynamic force within our team. Nicolas brings a fresh and creative perspective to our projects, and his passion for development shines through in the quality of his work. We are lucky to have him with us and look forward to seeing his bright future in the field of development.",
+      "name": "Aziza MOUHOUB"
+    },
+    "testimonial_four": {
+      "quote": "Nicolas is a friendly colleague. The projects led by Nicolas are always carried out with seriousness and professionalism. His passion for web development is a real asset! I am convinced that he will carry out his future projects with the same rigor and seriousness. Bravo Nicolas!",
+      "name": "Sofia Rifiki",
+      "company": "QuickMS"
+    },
+    "testimonial_five": {
+      "quote": "Nicolas is someone who truly engages in his work. During this year, I worked in the same development team. His attention to detail and exceptional listening skills make him a remarkable professional. His level of skill, particularly high for a junior profil, demonstrates his commitment to excellence in development. Nicolas is a real asset to a team and will fit perfectly into different projects.",
+      "name": "Jennifer Boî",
+      "company": ""
+    },
+    "testimonial_six": {
+      "quote": "Nicolas is a pleasure to work with! he has been an asset to our team through his technical skills, critical thinking, and constant good spirits. he is someone who is pleasant to interact with, but also productive and efficient. Though our professional paths have separated, he will remain a real loss for our team and a real gain for his next endeavor.",
+      "name": "Laure CHAPERT",
+      "company": ""
+    },
+    "testimonial_seven": {
+      "quote": "Nicolas is a web developer whose hands-on approach and technical understanding clearly stand out. Throughout his apprenticeship at QuickMS and his training at the 3W Academy, Nicolas has demonstrated his competence in web development, particularly in HTML, CSS, JavaScript, PHP, and Symfony 4.4. What is impressive about Nicolas is his ability to embrace challenges and continually improve himself. With a professional background including English-Japanese and chinese translation and teaching, he brings an enriching perspective to his web development work. His personal project (visible at https://portfolio-huang-nicolas.vercel.app/) and her final project at AFPA demonstrate his commitment and creativity. As an apprentice application developer at QuickMS, Nicolas has demonstrated excellent collaboration and project management skills, using tools like JIRA, Bitbucket, and Git. His proficiency in MySQL databases and experience with remote work complement his versatile profile. Nicolas  is therefore a committed and adaptable professional, ready to make a significant contribution in the field of web development. His potential to enrich a team and successfully lead innovative projects is undeniable.",
+      "name": "Christine Vincent-Giuliano",
+      "company": "QuickMS"
+    },
+    "title": "Recommendation Testimonials",
+    "link": "See more Testimonials details on my Linkedin"
+  },
+  "contact": {
+    "title": "Contact me",
+    "subtitle": "\uD83D\uDDA5\uFE0F Actively seeking an apprenticeship contract or full-time remote freelance job as a developer!",
+    "popup_message": "I'm here",
+    "form": {
+      "name_label": "Name",
+      "email_label": "Email",
+      "message_label": "Message",
+      "submit_button": "Submit"
+    },
+    "success_message": "Thank you for your message ! I will reply back to you soon",
+    "error_message": "An error has occurred. Please try again later."
+  },
+  "footer": {
+    "code_source": "Code Source",
+    "connect_with_me": "Connect with me",
+    "copyright": "© all rights reserved"
+  }
+}
