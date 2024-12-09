@@ -11,5 +11,3 @@ Thumbs.db
 # Ignore compiled output
 /dist
 /build
-/public
-/src/components/ContactForm.js
