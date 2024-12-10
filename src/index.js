@@ -12,13 +12,13 @@ import common_kr from "./translations/kr/common.json";
 
 i18next.init({
     interpolation: { escapeValue: false },  // React already does escaping
-    lng: 'en',                              // language to use
+    lng: 'fr',                              // language to use
     resources: {
-        en: {
-            common: common_en               // 'common' is our custom namespace
-        },
         fr: {
-            common: common_fr
+            common: common_fr                // 'common' is our custom namespace
+        },
+        en: {
+            common: common_en
         },
         ja: {
             common: common_ja

@@ -56,7 +56,7 @@ const ContactForm = () => {
             if (response.data.success) {
                 setIsSubmitted(true);
                 setSuccessMessage(t("contact.success_message"));
-                // Réinitialiser uniquement les champs du formulaire
+                // Réinitialise uniquement les champs du formulaire
                 setFormData((prev) => ({
                     ...prev,
                     name: "",
@@ -140,16 +140,13 @@ const ContactForm = () => {
                     </button>
                 </form>
 
-                {/* Display Error Message */}
                 {error && <p className="text-red-400 text-center mt-4">{error}</p>}
 
-                {/* Display Success Message */}
                 {successMessage && (
                     <p className="text-green-400 text-center mt-4">{successMessage}</p>
                 )}
             </div>
 
-            {/* Always show the map */}
             {formData.latitude && formData.longitude && (
                 <div className="w-full lg:w-1/2 h-96 lg:h-auto flex-grow lg:pl-4">
                     <MapContainer

@@ -6,14 +6,18 @@ function DownloadButton() {
     const { language } = useLanguage();
 
     const handleDownload = () => {
-        const downloadUrl = language === 'fr' ? '/CV_Nicolas_HUANG.pdf' : '/CV_Nicolas_Huang_English.pdf';
+        const isFrench = language === 'fr';
+        const downloadUrl = isFrench ? '/CV_Nicolas.pdf' : '/CV_Nicolas_English.pdf';
+        const fileName = isFrench ? 'CV_Nicolas.pdf' : 'CV_Nicolas_English';
+
         const link = document.createElement('a');
         link.href = downloadUrl;
-        link.setAttribute('download', language === 'fr' ? 'CV_Nicolas_HUANG.pdf' : 'CV_Nicolas_Huang_English');
+        link.setAttribute('download', fileName);
         document.body.appendChild(link);
         link.click();
-        document.body.removeChild(link); // Clean up
+        document.body.removeChild(link);
     };
+
 
     return (
         <button onClick={handleDownload}>
