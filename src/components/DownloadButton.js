@@ -6,18 +6,14 @@ function DownloadButton() {
     const { language } = useLanguage();
 
     const handleDownload = () => {
-        const isFrench = language === 'fr';
-        const downloadUrl = isFrench ? '/CV_Nicolas.pdf' : '/CV_Nicolas_English.pdf';
-        const fileName = isFrench ? 'CV_Nicolas.pdf' : 'CV_Nicolas_English';
-
+        const downloadUrl = language === 'fr' ? '/CV_Nicolas.pdf' : '/CV_Nicolas_English.pdf';
         const link = document.createElement('a');
         link.href = downloadUrl;
-        link.setAttribute('download', fileName);
+        link.setAttribute('download', language === 'fr' ? 'CV_Nicolas.pdf' : 'CV_Nicolas_English');
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
     };
-
 
     return (
         <button onClick={handleDownload}>
