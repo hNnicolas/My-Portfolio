@@ -125,7 +125,8 @@
       "submit_button": "Submit"
     },
     "success_message": "Thank you for your message ! I will reply back to you soon",
-    "error_message": "An error has occurred. Please try again later."
+    "error_message": "An error has occurred. Please try again later.",
+    "geolocation_error": "Unable to recover your location. Please check your geolocation settings or try again."
   },
   "footer": {
     "code_source": "Code Source",

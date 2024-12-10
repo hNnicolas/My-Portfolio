@@ -32,8 +32,10 @@ const ContactForm = () => {
                     setError(t("contact.geolocation_error"));
                 }
             );
+        } else {
+            setError(t("contact.geolocation_error"));
         }
-    }, []);
+    }, [t]);
 
     const handleChange = (e) => {
         setFormData({

@@ -124,8 +124,9 @@
             "message_label": "メッセージ",
             "submit_button": "送信"
         },
-        "success_message": "メッセージありがとうございます📩！すぐにご返信させていただきます🙏",
-        "error_message": "エラーが発生しました。後でもう一度試してください.⚠️"
+        "success_message": "メッセージありがとうございます📩！すぐにご返信させていただきます。🙏",
+        "error_message": "エラーが発生しました。後でもう一度試してください。⚠️",
+        "geolocation_error": "現在地を回復できません。地理位置情報の設定を確認するか、もう一度試してください。⚠️"
     },
     "footer": {
         "code_source": "Code Source",

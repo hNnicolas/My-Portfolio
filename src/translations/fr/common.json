@@ -126,7 +126,8 @@
       "submit_button": "Soumettre"
     },
     "success_message": "Merci pour votre message ! Je reviendrais vers vous bientôt.",
-    "error_message": "Une erreur est survenue. Veuillez réessayer plus tard."
+    "error_message": "Une erreur est survenue. Veuillez réessayer plus tard.",
+    "geolocation_error": "Impossible de récupérer votre position. Veuillez vérifier vos paramètres de géolocalisation ou réessayer."
   },
   "footer": {
     "code_source": "Code Source",

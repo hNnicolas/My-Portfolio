@@ -125,7 +125,8 @@
       "submit_button": "提交"
     },
     "success_message": "謝謝您的留言！我會盡快回覆您",
-    "error_message": "發生錯誤。請稍後重試。"
+    "error_message": "發生錯誤。請稍後重試。",
+    "geolocation_error": "無法恢復目前位置。請檢查您的地理位置設定或重試。"
   },
   "footer": {
     "code_source": "程式碼來源",
