@@ -10,17 +10,17 @@
   "about": {
     "name": "Hi, I'm Nicolas.",
     "introduction": "I love learning new technologies.",
-    "descriptions": "\uD83C\uDF93 Recently graduated with a \"Developer web full stack\" diploma after completing a bootcamp training with the 3w Academy school! Passionate about web development, I am pursuing a course for a web and mobile application designer title with La Manu on a work-study basis.",
+    "descriptions": "🎓 Recently graduated with a \"Developer web full stack\" diploma after completing a bootcamp training with the 3w Academy school! Passionate about web development, I am self-taught in 3D animations using WebGL with Three.js following online courses from <a href='https://bruno-simon.com/' target='_blank' rel='noopener noreferrer'><u>Bruno Simon</u></a>. At the same time, I am pursuing this field for a title of Web and Mobile Applications Designer with La Manu on a work-study basis.",
     "work_with_me": "Work With Me",
     "see_my_past_work": "See My Past Work"
   },
   "project": {
     "title": "Apps I've Built",
-    "description": "Below are some of the projects I've built using React, API, Three.js & WebGL and MySQL. Each project showcases my skills in these technologies.",
+    "description": "Below are some of the projects I've built using React, API, Three.js & WebGL. Each project showcases my skills in these technologies.",
     "FreshlyRestaurant": {
       "title": "Freshly Restaurant",
       "subtitle": "New York restaurant website",
-      "description": "Freshly Restaurant is a showcase site for a quintessential New York restaurant, showcasing its unique ambiance and iconic dishes. This project was carried out as part of my training at 3W Academy."
+      "description": "Freshly Restaurant is a showcase site for a quintessential New York restaurant, showcasing it's unique ambiance and iconic dishes. This project was carried out as part of my training at 3W Academy."
     },
     "Carnet_de_voyage": {
       "title": "Hello World",
@@ -35,7 +35,7 @@
     "haunted_house": {
       "title": "Haunted House",
       "subtitle": "Three.js & WebGL",
-      "description": "3D Haunted house is an immersive experience where you explore an interactive haunted house with dynamic light and shadow effects, and spooky animations created with WebGL, Three.js, and Blender."
+      "description": "3D Haunted house is an immersive experience whise you explore an interactive haunted house with dynamic light and shadow effects, and spooky animations created with WebGL, Three.js, and Blender."
     },
     "coffee_smoke_shader": {
       "title": "Coffee Smoke Shader",
@@ -78,12 +78,12 @@
   },
   "testimonials": {
     "testimonial_one": {
-      "quote": "Nicolas is a Junior Developer, who managed to get up to speed very quickly on a Symfony 4 / PHP 7.4 project. She started with simple / repetitive tasks, and ended with the implementation of a new time and activity entry module. Nicolas understands and adapts very quickly to the context of the project, which allows us to move forward very quickly and to rely on her skills to bring projects to a successful conclusion",
+      "quote": "Nicolas is a Junior Developer, who managed to get up to speed very with Web2 rebuilt to web3. he started with simple / repetitive tasks, and ended with the implementation of a new time and activity entry module. Nicolas understands and adapts very quickly to the context of the project, which allows us to move forward very quickly and to rely on his skills to bring projects to a successful conclusion",
       "name": "Emmanuel BOCQUET",
-      "company": "QuickMS"
+      "company": "T4F"
     },
     "testimonial_two": {
-      "quote": "It's a pleasure to work with Nicolas! he has been a valuable addition to our team with his technical skills, critical thinking, and constant positive attitude. he is a person with whom it is pleasant to exchange ideas, but who is also productive and efficient. Although our professional paths have diverged, she will remain a true asset for our team and a real gain for her next opportunity.",
+      "quote": "It's a pleasure to work with Nicolas! he has been a valuable addition to our team with his technical skills, critical thinking, and constant positive attitude. he is a person with whom it is pleasant to exchange ideas, but who is also productive and efficient. Although our professional paths have diverged, he will remain a true asset for our team and a real gain for his next opportunity.",
       "name": "Anthony PERRIER",
       "company": ""
     },
@@ -94,7 +94,7 @@
     "testimonial_four": {
       "quote": "Nicolas is a friendly colleague. The projects led by Nicolas are always carried out with seriousness and professionalism. His passion for web development is a real asset! I am convinced that he will carry out his future projects with the same rigor and seriousness. Bravo Nicolas!",
       "name": "Sofia Rifiki",
-      "company": "QuickMS"
+      "company": "T4F"
     },
     "testimonial_five": {
       "quote": "Nicolas is someone who truly engages in his work. During this year, I worked in the same development team. His attention to detail and exceptional listening skills make him a remarkable professional. His level of skill, particularly high for a junior profil, demonstrates his commitment to excellence in development. Nicolas is a real asset to a team and will fit perfectly into different projects.",
@@ -107,9 +107,9 @@
       "company": ""
     },
     "testimonial_seven": {
-      "quote": "Nicolas is a web developer whose hands-on approach and technical understanding clearly stand out. Throughout his apprenticeship at QuickMS and his training at the 3W Academy, Nicolas has demonstrated his competence in web development, particularly in HTML, CSS, JavaScript, PHP, and Symfony 4.4. What is impressive about Nicolas is his ability to embrace challenges and continually improve himself. With a professional background including English-Japanese and chinese translation and teaching, he brings an enriching perspective to his web development work. His personal project (visible at https://portfolio-huang-nicolas.vercel.app/) and her final project at AFPA demonstrate his commitment and creativity. As an apprentice application developer at QuickMS, Nicolas has demonstrated excellent collaboration and project management skills, using tools like JIRA, Bitbucket, and Git. His proficiency in MySQL databases and experience with remote work complement his versatile profile. Nicolas  is therefore a committed and adaptable professional, ready to make a significant contribution in the field of web development. His potential to enrich a team and successfully lead innovative projects is undeniable.",
+      "quote": "Nicolas is a web developer whose hands-on approach and technical understanding clearly stand out. Throughout his apprenticeship at T4F and his training at the 3W Academy, Nicolas has demonstrated his competence in web development, particularly in HTML, CSS, JavaScript, React. What is impressive about Nicolas is his ability to embrace challenges and continually improve himself. With a professional background including English-Japanese and chinese translation, he brings an enriching perspective to his web development work. His personal project (visible at <a href='https://fish-ocean.vercel.app/' target='_blank' rel='noopener noreferrer'><u>https://fish-ocean.vercel.app/</u></a>.) and his final project demonstrate his commitment and creativity. As an apprentice application developer at T4F, Nicolas has demonstrated excellent collaboration and project management skills, using tools like JIRA, Bitbucket, and Git. His proficiency in MySQL databases and experience with remote work complement his versatile profile. Nicolas  is thisefore a committed and adaptable professional, ready to make a significant contribution in the field of web development. His potential to enrich a team and successfully lead innovative projects is undeniable.",
       "name": "Christine Vincent-Giuliano",
-      "company": "QuickMS"
+      "company": "T4F"
     },
     "title": "Recommendation Testimonials",
     "link": "See more Testimonials details on my Linkedin"
@@ -117,7 +117,7 @@
   "contact": {
     "title": "Contact me",
     "subtitle": "\uD83D\uDDA5\uFE0F Actively seeking an apprenticeship contract or full-time remote freelance job as a developer!",
-    "popup_message": "I'm here",
+    "popup_message": "I'm hise",
     "form": {
       "name_label": "Name",
       "email_label": "Email",

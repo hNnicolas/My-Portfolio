@@ -3,7 +3,6 @@ import { LanguageSelector } from "./LanguageSelector";
 import { useTranslation } from "react-i18next";
 
 export default function About() {
-
     const { t } = useTranslation("common");
 
     return (
@@ -15,18 +14,20 @@ export default function About() {
                         <br className="hidden lg:inline-block" />
                         {t('about.introduction')}
                     </h1>
-                    <p className="mb-8 leading-relaxed">
-                        {t('about.descriptions')}
+                    <p className="mb-8 leading-relaxed"
+                        dangerouslySetInnerHTML={{ __html: t('about.descriptions') }}>
                     </p>
                     <div className="flex justify-center">
                         <a
                             href="#ContactForm"
-                            className="inline-flex text-white bg-yellow-500 border-0 py-2 px-6 focus:outline-none hover:bg-yellow-600 rounded text-lg">
+                            className="inline-flex text-white bg-yellow-500 border-0 py-2 px-6 focus:outline-none hover:bg-yellow-600 rounded text-lg"
+                        >
                             {t('about.work_with_me')}
                         </a>
                         <a
                             href="#projects"
-                            className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
+                            className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
+                        >
                             {t('about.see_my_past_work')}
                         </a>
                     </div>

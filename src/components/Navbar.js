@@ -29,23 +29,33 @@ export default function Navbar() {
                             {t('nav.testimonials')}
                         </a>
                         {' '}
-                        <a href="https://www.linkedin.com/in/nicolas-huang-9b068713b/" className="mr-5 hover:bg-gray-900 rounded">
-                            <img
-                                alt="LinkedIn"
-                                src="/linkedin.svg"
-                                className="w-6 h-6 inline-block"
-                            />
-                        </a>
-                        <a href="https://github.com/hNnicolas" className="mr-5 hover:bg-gray-900 rounded">
-                            <img
-                                alt="LinkedIn"
-                                src="/github.png"
-                                className="w-6 h-6 inline-block"
-                            />
-                        </a>
-                        <p className="mr-5 hover:bg-gray-900 rounded">
-                            <DownloadButton className="w-4 h-4 ml-1" />
-                        </p>
+                        <div className="flex items-center space-x-4">
+                            <a
+                                href="https://www.linkedin.com/in/nicolas-huang-9b068713b/"
+                                className="hover:bg-gray-900 rounded"
+                            >
+                                <img
+                                    alt="LinkedIn"
+                                    src="/linkedin.svg"
+                                    className="w-6 h-6"
+                                />
+                            </a>
+                            <a
+                                href="https://github.com/hNnicolas"
+                                className="hover:bg-gray-900 rounded"
+                            >
+                                <img
+                                    alt="GitHub"
+                                    src="/github.png"
+                                    className="w-6 h-6"
+                                />
+                            </a>
+                            <p className="hover:bg-gray-900 rounded">
+                                <DownloadButton className="w-4 h-4 ml-1" />
+                            </p>
+                        </div>
+
+
                     </nav>
                     <a
                         href="#ContactForm"

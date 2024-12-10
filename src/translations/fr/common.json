@@ -10,7 +10,7 @@
   "about": {
     "name": "Bonjour, je m'appelle Nicolas.",
     "introduction": "J'adore apprendre de nouvelles technologies.",
-    "descriptions": "\uD83C\uDF93 Récemment diplômé au titre de  \"Développeur web full stack\" après avoir terminé une formation en bootcamp avec l'école 3w Académy ! Passionné dans le développement web, je poursuis ce domaine pour un titre de Concepteur d'application web et mobile avec La Manu en alternance.",
+    "descriptions": "\uD83C\uDF93 Récemment diplômé au titre de  \"Développeur web full stack\" après avoir terminé une formation en bootcamp avec l'école 3w Académy ! Passionné dans le développement web, je me forme en autodidacte en animations 3D en utilisant des WebGL avec Three.js suivi des cours en ligne de <a href='https://bruno-simon.com/' target='_blank' rel='noopener noreferrer'><u>Bruno Simon</u></a>. Parallèlement, je poursuis ce domaine pour un titre de Concepteur d'application web et mobile avec La Manu en alternance.",
     "work_with_me": "Contactez moi",
     "see_my_past_work": "Voir mes réalisations"
   },
@@ -60,7 +60,7 @@
     "raging-sea": {
       "title": "raging-sea",
       "subtitle": "GLSL et Javascript",
-      "description": "Raging Sea est une animation 3D simulant un océan dynamique avec des vagues réalistes, créées à l’aide de Three.js, WebGL et Perlin Noise. Elle permet d'ajuster l'apparence de l'eau de manière interactive."
+      "description": "Raging Sea est une animation 3D simulant un océan dynamique avec des vagues réalistes, créés à l’aide de Three.js, WebGL et Perlin Noise. Elle permet d'ajuster l'apparence de l'eau de manière interactive."
     },
     "helmet": {
       "title": "Helmet",
@@ -78,9 +78,9 @@
   },
   "testimonials": {
     "testimonial_one": {
-      "quote": "Nicolas est un développeur Junior, qui a réussi à monté en compétence très rapidement sur un projet Symfony 4 / PHP 7.4. Il a commencé par des taches simples / répétitives, pour terminer sur la mise en œuvre d'un nouveau module de saisie des temps et activités. Nicolas comprend et s'adapte très vite au contexte du projet, ce qui permet d'avancer très rapidement et de s'appuyer sur ses compétence pour mener à bien les projets.",
+      "quote": "Nicolas est un Développeur Junior, qui a réussi à se mettre à niveau avec Web2 reconstruit en web3. Il a commencé par des taches simples / répétitives, pour terminer sur la mise en œuvre d'un nouveau module de saisie des temps et activités. Nicolas comprend et s'adapte très vite au contexte du projet, ce qui permet d'avancer très rapidement et de s'appuyer sur ses compétence pour mener à bien les projets.",
       "name": "Emmanuel BOCQUET",
-      "company": "QuickMS"
+      "company": "T4F"
     },
     "testimonial_two": {
       "quote": "C'est un plaisir de travailler avec Nicolas ! Il a été un atout pour notre équipe par ses compétences techniques, sa réflexion et sa bonne humeur permanente. C'est une personne avec qui il est agréable d'échanger, mais qui est aussi productive et performant. Si les chemins professionnels nous ont séparé, il restera un véritable manque pour notre équipe, et un véritable gain pour sa prochaine.",
@@ -95,7 +95,7 @@
     "testimonial_four": {
       "quote": "Nicolas est un collègue sympathique. Les projets menés par Nicolas sont toujours réalisés avec sérieux et professionnalisme. On ressent sa passion pour le développement web c’est un vrai atout ! Je suis convaincue qu’il mènera ses prochains projets avec autant de rigueur et de sérieux. Bravo Nicolas ! ",
       "name": "Sofia Rifiki",
-      "company": "QuickMS"
+      "company": "T4F"
     },
     "testimonial_five": {
       "quote": "Nicolas est un personne qui s'implique réellement dans son travail. Au cours de cette année, j'ai travaillé dans la même équipe de développement. Son attention aux détails et sa capacité d'écoute exceptionnelle font de lui une professionnelle remarquable. Son niveau de compétence, particulièrement élevé pour un profil junior, démontre son engagement envers l'excellence dans le développement. Nicolas est un vrai atout dans une équipe et s'adaptera parfaitement à différents projets.",
@@ -108,9 +108,9 @@
       "company": ""
     },
     "testimonial_seven": {
-      "quote": "Nicolas est un développeur web dont l'approche pratique et la compréhension technique se distinguent clairement. Au cours de son apprentissage chez QuickMS et de sa formation à la 3W Academy, Nicolas a prouvé sa compétence en développement web, particulièrement en HTML, CSS, JavaScript, PHP, et Symfony 4.4. Ce qui est impressionnant chez Nicolas, c'est sa capacité à embrasser les défis et à se perfectionner continuellement. Avec un parcours professionnel incluant la traduction anglais-japonais et l'enseignement, il apporte une vision enrichissante à son travail en développement web.",
+      "quote": "Nicolas est un développeur web dont l'approche pratique et la compréhension technique se distinguent clairement. Au cours de son apprentissage chez T4F et de sa formation à la 3W Academy, Nicolas a prouvé sa compétence en développement web, particulièrement en HTML, CSS, JavaScript, PHP, et Symfony 4.4. Ce qui est impressionnant chez Nicolas, c'est sa capacité à relever les défis et à s'améliorer continuellement. Avec une formation professionnelle incluant la traduction anglais-japonais et chinois, il apporte une perspective enrichissante à son travail de développement web. Son projet personnel (visible sur <a href='https://fish-ocean.vercel.app/' target='_blank' rel='noopener noreferrer'><u>https://fish-ocean.vercel.app/</u></a>.) démontrent son engagement et sa créativité. En tant qu'apprenti développeur d'applications chez T4F, Nicolas a démontré d'excellentes compétences en collaboration et en gestion de projet, en utilisant des outils comme JIRA, Bitbucket et Git. Sa maîtrise des bases de données MySQL et son expérience du travail à distance complètent son profil polyvalent. Nicolas est donc un professionnel engagé et adaptable, prêt à apporter une contribution significative dans le domaine du développement web. Son potentiel pour enrichir une équipe et mener avec succès des projets innovants est indéniable.",
       "name": "Christine Vincent-Giuliano",
-      "company": "QuickMS"
+      "company": "T4F"
     },
     "title": "Recommandations Témoignages",
     "link": "Voir plus de témoignages sur mon Linkedin"

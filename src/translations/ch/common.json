@@ -10,7 +10,7 @@
   "about": {
     "name": "你好，我是 Nicolas. 我是在法國出生長大的中國人",
     "introduction": "我喜歡學習新技術。",
-    "descriptions": "\uD83C\uDF93 最近在 3w Academy 完成了我的訓練營培訓，並獲得了“Developer web full stack”文憑！我對 Web 開發充滿熱情，目前正在 La Manu 參加勤工儉學項目，以成為 Web 和行動應用程式設計師。",
+    "descriptions": "\uD83C\uDF93 我在 3w Academy 學校完成了訓練營培訓，最近畢業並獲得了「開發人員 Web 全端」文憑。我對 Web 開發充滿熱情，並且正在按照 <a href='https://bruno-simon.com/' target='_blank' rel='noopener noreferrer'><u>Bruno Simon</u></a> 的線上課程使用 WebGL 和 Three.js 自學 3D 動 同時，我正在勤工儉學，與 La Manu 一起攻讀這一領域的 Web 和行動應用程式設計師頭銜。",
     "work_with_me": "和我一起工作",
     "see_my_past_work": "查看我過去的工作"
   },
@@ -78,9 +78,9 @@
   },
   "testimonials": {
     "testimonial_one": {
-      "quote": "Nicolas 是一位初級開發人員，他能夠快速熟悉 Symfony 4 / PHP 7.4 專案。她從簡單/重複性任務開始，以實施新的時間和活動輸入模組結束。 Nicolas 非常快速地理解並適應了專案的背景，這使我們能夠快速前進並依靠她的技能使專案圓滿成功",
+      "quote": "Nicolas 是一名初級開發人員，他成功地加快了 Web2 重建為 web3 的速度，以實施新的時間和活動輸入模組結束。 Nicolas 非常快速地理解並適應了專案的背景，這使我們能夠快速前進並依靠她的技能使專案圓滿成功",
       "name": "Emmanuel BOCQUET",
-      "company": "QuickMS"
+      "company": "T4F"
     },
     "testimonial_two": {
       "quote": "很高興與Nicolas合作！他憑藉著自己的技術技能、批判性思維和持續的積極態度，成為我們團隊的寶貴補充。他是一個很樂意與他交流想法的人，但他也富有成效和有效率。儘管我們的職業道路出現了分歧，但她仍將是我們團隊的真正資產，並為她的下一次機會帶來真正的收穫。",
@@ -94,7 +94,7 @@
     "testimonial_four": {
       "quote": "Nicolas 是一位友善的同事。Nicolas 領導的計畫總是以認真和專業的態度進行。他對網頁開發的熱情是一筆真正的財富！我相信他會以同樣的嚴謹和認真的態度來開展他未來的計畫。Nicolas 極了！",
       "name": "Sofia Rifiki",
-      "company": "QuickMS"
+      "company": "T4F"
     },
     "testimonial_five": {
       "quote": "Nicolas 是一個真正投入工作的人。這一年裡，我在同一個開發團隊工作。他對細節的關注和卓越的傾聽技巧使他成為一位出色的專業人士。他的技能水平（對於初級人才來說尤其高）表明了他對卓越發展的承諾。 Nicolas 是團隊的真正資產，可以完美地適應不同的專案。",
@@ -107,9 +107,9 @@
       "company": ""
     },
     "testimonial_seven": {
-      "quote": "Nicolas 是一位 Web 開發人員，他的實務方法和技術理解能力非常突出。在 QuickMS 的學徒期和 3W 學院的培訓過程中，Nicolas 展現了他在 Web 開發方面的能力，特別是在 HTML、CSS、JavaScript、PHP 和 Symfony 4.4 方面。尼古拉斯令人印象深刻的是他勇於接受挑戰並不斷提升自己的能力。他擁有英日和中文翻譯和教學等專業背景，為他的網頁開發工作帶來了豐富的視角。他的個人專案（請參閱 https://portfolio-huang-nicolas.vercel.app/）和她在 AFPA 的最終專案展示了他的承諾和創造力。作為 QuickMS 的學徒應用程式開發人員，Nicolas 使用 JIRA、Bitbucket 和 Git 等工具展示了出色的協作和專案管理技能。他對 MySQL 資料庫的熟練程度和遠距工作經驗與他多才多藝的個性相得益彰。因此，尼古拉斯是一位忠誠且適應性強的專業人士，準備在網路開發領域做出重大貢獻。他豐富團隊和成功領導創新專案的潛力是不可否認的。",
+      "quote": "Nicolas 是一位 Web 開發人員，他的實務方法和技術理解能力非常突出。在 T4F 的學徒期和 3W 學院的培訓過程中，Nicolas 展現了他在 Web 開發方面的能力，特別是在 HTML、CSS、JavaScript、PHP 和 Symfony 4.4 方面。尼古拉斯令人印象深刻的是他勇於接受挑戰並不斷提升自己的能力。他擁有英日和中文翻譯和教學等專業背景，為他的網頁開發工作帶來了豐富的視角。他的個人專案（請參閱 <a href='https://fish-ocean.vercel.app/' target='_blank' rel='noopener noreferrer'><u>https://fish-ocean.vercel.app/</u></a> 的最終專案展示了他的承諾和創造力。作為 T4F 的學徒應用程式開發人員，Nicolas 使用 JIRA、Bitbucket 和 Git 等工具展示了出色的協作和專案管理技能。他對 MySQL 資料庫的熟練程度和遠距工作經驗與他多才多藝的個性相得益彰。因此，尼古拉斯是一位忠誠且適應性強的專業人士，準備在網路開發領域做出重大貢獻。他豐富團隊和成功領導創新專案的潛力是不可否認的。",
       "name": "Christine Vincent-Giuliano",
-      "company": "QuickMS"
+      "company": "T4F"
     },
     "title": "推薦感言",
     "link": "在我的 Linkedin 上查看更多推薦詳情"
