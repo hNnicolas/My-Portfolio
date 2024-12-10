@@ -6,10 +6,10 @@ function DownloadButton() {
     const { language } = useLanguage();
 
     const handleDownload = () => {
-        const downloadUrl = language === 'fr' ? '/CV_Nicolas_HUANG.pdf' : '/CV_Nicolas_HUANG_English.pdf';
+        const downloadUrl = language === 'fr' ? '/CV_Nicolas_HUANG.pdf' : '/CV_Nicolas_Huang_English.pdf';
         const link = document.createElement('a');
         link.href = downloadUrl;
-        link.setAttribute('download', language === 'fr' ? 'CV_Nicolas_HUANG.pdf' : 'CV_Nicolas_HUANG_English');
+        link.setAttribute('download', language === 'fr' ? 'CV_Nicolas_HUANG.pdf' : 'CV_Nicolas_Huang_English');
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link); // Clean up
