@@ -71,6 +71,11 @@
       "title": "nightgalaxy",
       "subtitle": "WebGL 와 Shader",
       "description": "nightgalaxy 는 Three.JS, Blender를 사용한 3D 창작물입니다."
+    },
+    "galaxy-generator": {
+      "title": "galaxy-generator",
+      "subtitle": "WebGL 와 Shader",
+      "description": "galaxy-generator는 Three.JS, Blender 및 Control Panel을 사용한 3D 생성입니다."
     }
   },
   "skills": {

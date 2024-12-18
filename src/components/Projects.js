@@ -1,11 +1,10 @@
 import { CodeIcon } from "@heroicons/react/solid";
 import React from "react";
 import { getTranslatedProjects } from "../data";
-import {useTranslation} from "react-i18next";
+import { useTranslation } from "react-i18next";
 
 export default function Projects() {
-
-    const {t} = useTranslation("common");
+    const { t } = useTranslation("common");
     const translatedProjects = getTranslatedProjects(t);
 
     return (
@@ -14,10 +13,10 @@ export default function Projects() {
                 <div className="flex flex-col w-full mb-20">
                     <CodeIcon className="mx-auto inline-block w-10 mb-4" />
                     <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-                        {t('project.title')}
+                        {t("project.title")}
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        {t('project.description')}
+                        {t("project.description")}
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">
@@ -25,8 +24,8 @@ export default function Projects() {
                         <a
                             href={project.link}
                             key={project.image}
-                            className="sm:w-1/2 w-100 p-4">
-                            <div className="flex relative">
+                            className="sm:w-1/2 w-full p-4">
+                            <div className="flex relative h-64 w-full">
                                 <img
                                     alt="gallery"
                                     className="absolute inset-0 w-full h-full object-cover object-center"

@@ -71,6 +71,11 @@
             "title": "nightgalaxy",
             "subtitle": "WebGL と Shader",
             "description": "nightgalaxy は Three.JS、Blender を使用した 3D 作品です"
+        },
+        "galaxy-generator": {
+            "title": "galaxy-generator",
+            "subtitle": "WebGL と Shader",
+            "description": "galaxy-generator は Three.JS、Blender とControl Panelを使用した 3D 作成です"
         }
     },
     "skills": {

@@ -71,6 +71,11 @@
       "title": "nightgalaxy",
       "subtitle": "WebGL et Shader",
       "description": "nightgalaxy est une réalisation 3D avec Three.JS, Blender"
+    },
+    "galaxy-generator": {
+      "title": "galaxy-generator",
+      "subtitle": "WebGL et Shader",
+      "description": "galaxy-generator est une réalisation 3D avec Three.JS, Blender avec un pannel de controle"
     }
   },
   "skills": {

@@ -98,6 +98,13 @@ export const getTranslatedProjects = (t) => [
     image: "./nightgalaxy.gif",
     link: "https://nightgalaxy.netlify.app/",
   },
+  {
+    title: t("project.galaxy-generator.title"),
+    subtitle: t("project.galaxy-generator.subtitle"),
+    description: t("project.galaxy-generator.description"),
+    image: "./galaxy-generator.gif",
+    link: "https://3dgalaxy-generator.netlify.app/",
+  },
 ];
 
 export const getTranslatedTestimonials = (t) => [
