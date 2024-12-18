@@ -91,6 +91,13 @@ export const getTranslatedProjects = (t) => [
     image: "./helmet.gif",
     link: "https://3d-helmet.vercel.app/",
   },
+  {
+    title: t("project.nightgalaxy.title"),
+    subtitle: t("project.nightgalaxy.subtitle"),
+    description: t("project.nightgalaxy.description"),
+    image: "./nightgalaxy.gif",
+    link: "https://nightgalaxy.netlify.app/",
+  },
 ];
 
 export const getTranslatedTestimonials = (t) => [

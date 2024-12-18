@@ -5,7 +5,7 @@
     "skills": "技能",
     "testimonials": "感言",
     "contact_me": "我聯絡",
-    "language": "中文"
+    "language": ""
   },
   "about": {
     "name": "你好，我是 Nicolas. 我是在法國出生長大的中國人",
@@ -66,6 +66,11 @@
       "title": "Helmet",
       "subtitle": "WebGL 和 Html",
       "description": "Helmet 是一個互動式 Web 應用程序，可讓您查看和操作 3D 頭盔模型。它非常適合線上產品演示，它使用 Three.js、WebGL 和 Blender 提供具有真實細節和動態 HTML 描述的流暢體驗."
+    },
+    "nightgalaxy": {
+      "title": "nightgalaxy",
+      "subtitle": "WebGL 和 Shader",
+      "description": "nightgalaxy 是使用 Three.JS、Blender 進行的 3D 創作"
     }
   },
   "skills": {

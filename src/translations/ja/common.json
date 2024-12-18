@@ -5,7 +5,7 @@
         "skills": "スキル",
         "testimonials": "推薦文",
         "contact_me": "連絡先",
-        "language": "日本語"
+        "language": ""
     },
     "about": {
         "name": "My Portfolio",
@@ -66,6 +66,11 @@
             "title": "Helmet",
             "subtitle": "WebGL と Html",
             "description": "Helmet は、3D ヘルメット モデルを表示および操作できるインタラクティブな Web アプリケーションです。オンライン製品プレゼンテーションに最適で、Three.js、WebGL、Blender を使用して、リアルな詳細と動的な HTML 記述による流動的なエクスペリエンスを提供します。"
+        },
+        "nightgalaxy": {
+            "title": "nightgalaxy",
+            "subtitle": "WebGL と Shader",
+            "description": "nightgalaxy は Three.JS、Blender を使用した 3D 作品です"
         }
     },
     "skills": {

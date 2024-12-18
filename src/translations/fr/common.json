@@ -5,7 +5,7 @@
     "skills": "Compétences",
     "testimonials": "Témoignages",
     "contact_me": "Contactez moi",
-    "language": "Langue"
+    "language": ""
   },
   "about": {
     "name": "Bonjour, je m'appelle Nicolas.",
@@ -66,6 +66,11 @@
       "title": "Helmet",
       "subtitle": "WebGL et Html",
       "description": "Helmet est une application web interactive qui permet de visualiser et manipuler un modèle 3D de casque. Idéale pour la présentation de produits en ligne, elle utilise Three.js, WebGL, et Blender pour offrir une expérience fluide avec des détails réalistes et des descriptions dynamiques en HTML."
+    },
+    "nightgalaxy": {
+      "title": "nightgalaxy",
+      "subtitle": "WebGL et Shader",
+      "description": "nightgalaxy est une réalisation 3D avec Three.JS, Blender"
     }
   },
   "skills": {
