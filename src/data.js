@@ -13,8 +13,12 @@ import trelloLogo from './assets/logos/trello.webp';
 import figmaLogo from './assets/logos/figma.webp';
 import ThreejsLogo from './assets/logos/Three.js.webp';
 import webGLLogo from './assets/logos/webgl.webp';
+import typescriptLogo from './assets/logos/typescrypt.webp';
+import wordpressLogo from './assets/logos/wordpress.webp';
+import canvaLogo from './assets/logos/canva.webp';
 
 import phpLogo from './assets/logos/php.webp';
+import symfonyLogo from './assets/logos/symfony.webp'
 import javaLogo from './assets/logos/java.webp';
 import laravelLogo from './assets/logos/laravel.webp';
 import umlLogo from './assets/logos/uml.webp';
@@ -148,23 +152,30 @@ export const getTranslatedTestimonials = (t) => [
 export const skills = [
   { name: "Html", image: htmlLogo },
   { name: "Css", image: cssLogo },
-  { name: "Tailwind", image: tailwindLogo },
   { name: "JavaScript", image: javascriptLogo },
+  { name: "TypeScript", image: typescriptLogo },
   { name: "React", image: reactLogo },
   { name: "Redux", image: reduxLogo },
   { name: "Sass", image: sassLogo },
+  { name: "Tailwind", image: tailwindLogo },
   { name: "MySQL", image: mySqlLogo },
   { name: "Node.js", image: nodejsLogo },
   { name: "MongoDb", image: mongoDBLogo },
   { name: "Git", image: gitLogo },
   { name: "Figma", image: figmaLogo },
   { name: "Trello", image: trelloLogo },
-  { name: "Three.js", image: ThreejsLogo },
   { name: "WebGL", image: webGLLogo },
+  { name: "Three.js", image: ThreejsLogo },
+  { name: "Canva", image: canvaLogo },
+
+
+
+  { name: "WordPress", image: wordpressLogo },
 ];
 
 export const skillsInProgress = [
   { name: "Php", image: phpLogo },
+  { name: "Symfony", image: symfonyLogo },
   { name: "Java", image: javaLogo },
   { name: "Laravel", image: laravelLogo },
   { name: "Uml", image: umlLogo },
